@@ -1,4 +1,6 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
+# NAME : ATCHAYA.K
+# REGISTER NUM : 212223220011
 
 ## AIM:
 To create a warehouse application in salesforce.com
